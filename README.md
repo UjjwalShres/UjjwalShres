@@ -1,38 +1,38 @@
 # Hi there, I'm Ujjwal 👋
 
-### **Full-Stack / Frontend Developer**
-Building responsive web applications, custom themes, and clean digital solutions. Focused on performant frontend interfaces and reliable backend logic.
+### **WordPress Plugin Engineer & PHP Developer**
+3+ years of full-time experience building custom WordPress plugins, PHP API integrations, and scalable site architectures. Focused on clean code, performance optimization, and custom WooCommerce solutions—moving away from bloated page builders.
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🧰 Tech Stack & Core Competencies
 
-**Languages & Core**  
-`JavaScript (ES6+)` `HTML5` `CSS3 / SCSS` `PHP` `SQL`
+**WordPress Engineering & PHP**  
+`Custom Plugin Development` `PHP (8.x)` `REST APIs & Webhooks` `WooCommerce Hooks/Filters` `ACF / Gutenberg Blocks`
 
-**Frameworks & CMS**  
-`WordPress` `WooCommerce` `React` `Tailwind CSS`
+**Frontend & Logic**  
+`JavaScript (ES6+) / AJAX` `HTML5 & SCSS` `Tailwind CSS` `React / Node.js`
 
 **Tools & Workflow**  
-`Git & GitHub` `Webpack / Vite` `REST APIs` `Figma`
+`Git & GitHub` `Composer` `Webpack / Vite` `Postman` `MySQL`
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Repositories & Solutions
 
-#### 📌 [Project Name 1](https://github.com/your-username/project-1)
-> Short, 1-2 sentence description of what this project does and the problem it solves.
-* **Tech Stack:** React, Node.js, Tailwind CSS
-* **Live Demo:** [view live app](https://your-demo-link.com)
+#### 📌 [Custom WP Plugin / API Integration Title](https://github.com/UjjwalShres/your-repo-name)
+> Lightweight custom plugin built to consume external REST APIs, handle webhooks, and map dynamic data into WordPress custom post types cleanly.
+* **Key Features:** Custom admin settings page, secure API authentication, transient caching for performance.
+* **Tech Stack:** PHP 8.x, WordPress REST API, JavaScript/AJAX
 
-#### 📌 [Project Name 2](https://github.com/your-username/project-2)
-> Short description focusing on custom development, API integrations, or frontend features.
-* **Tech Stack:** WordPress, PHP, JavaScript, SCSS
-* **Live Demo:** [view live site](https://your-demo-link.com)
+#### 📌 [WooCommerce Customization / Extension](https://github.com/UjjwalShres/your-repo-name-2)
+> Bespoke WooCommerce integration modifying default checkout workflows and extending product metadata through custom action hooks.
+* **Key Features:** PSR-12 compliant code, zero plugin dependencies, optimized database queries.
+* **Tech Stack:** PHP, WooCommerce Core, MySQL
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Technical Activity
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=UjjwalShres&show_icons=true&theme=nord&hide_border=true" alt="Ujjwal's GitHub Stats" width="48%" />
@@ -41,8 +41,9 @@ Building responsive web applications, custom themes, and clean digital solutions
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect & Collaborate
 
-* **Portfolio / Website:** [ujjwal-shrestha.com.np](https://ujjwal-shrestha.com.np)
-* **LinkedIn:** [linkedin.com/in/ujjwal-shrestha-6b7499226/](https://www.linkedin.com/in/ujjwal-shrestha-6b7499226/)
+* **Portfolio:** [ujjwal-shrestha.com.np](https://ujjwal-shrestha.com.np)
+* **LinkedIn:** [Ujjwal Shrestha](https://www.linkedin.com/in/ujjwal-shrestha-6b7499226/)
+* **Upwork:** [Hire for Custom PHP / WP Development](https://www.upwork.com) *(Insert your profile link)*
 * **Email:** [shresthaujjwal69@gmail.com](mailto:shresthaujjwal69@gmail.com)
