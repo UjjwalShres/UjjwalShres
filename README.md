@@ -32,18 +32,9 @@
 
 ---
 
-### 📈 Technical Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=UjjwalShres&show_icons=true&theme=nord&hide_border=true" alt="Ujjwal's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalShres&layout=compact&theme=nord&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 📫 Connect & Collaborate
 
 * **Portfolio:** [ujjwal-shrestha.com.np](https://ujjwal-shrestha.com.np)
 * **LinkedIn:** [Ujjwal Shrestha](https://www.linkedin.com/in/ujjwal-shrestha-6b7499226/)
-* **Upwork:** [Hire for Custom PHP / WP Development](https://www.upwork.com) *(Insert your profile link)*
+* **Upwork:** [Hire for Custom PHP / WP Development](https://www.upwork.com/freelancers/~01747549d91655b3d9)
 * **Email:** [shresthaujjwal69@gmail.com](mailto:shresthaujjwal69@gmail.com)
